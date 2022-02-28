@@ -1,0 +1,8 @@
+atom.c
+atom.pyx
+pyproject.toml
+setup.py
+pydbm_atom.egg-info/PKG-INFO
+pydbm_atom.egg-info/SOURCES.txt
+pydbm_atom.egg-info/dependency_links.txt
+pydbm_atom.egg-info/top_level.txt
